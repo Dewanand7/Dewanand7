@@ -10,10 +10,11 @@ Dewanand7/Dewanand7 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ![ReadMe Card](https://github-readme-stats.vercel.app/api?username=Dewanand7&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dewanand7&theme=dark&show_icons=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dewanand7&layout=compact)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dewanand7&repo=Mysite)
+![ReadMe Card](https://github-readme-stats.vercel.app/api?username=Dewanand7&theme=dark&show_icons=true)
+
 
 
 
