@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Dewanand
-- 👀 I’m Interested to work on Software Development & Web Development..
-- 🌱 I’m currently learning Some Development Tools ...
-- 💞️ I’m looking to collaborate on projects and also work on my personal projects...
-- 📫 How to reach me dewanandkhilar@gmail.com ...
-- 💻 please check my Techie Stuff on https://devkhilar.blogspot.com/ ...
-- 🤖 For More Click Here https://dewanand7.github.io/Mysite/
+<h1 align="center">Hi 👋, I'm Dewanand</h1>
+<h3 align="center">Software Developer & Web Developer</h3>
+
+- 🔭 I’m currently working on [my personal projects](https://dewanand7.github.io/personal_portfolio/)
+
+- 🌱 I’m currently learning **Some Development Tools**
+
+- 👯 I’m looking to collaborate on **Software Development**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Dewanand7](https://github.com/Dewanand7)
+
+- 📝 I regularly write articles on [https://devkhilar.blogspot.com/](https://devkhilar.blogspot.com/)
+
+- 📫 How to reach me **dewanandkhilar@gmail.com**
+
+- ⚡ Fun fact **I am very Funny.😂**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 <!---
 Dewanand7/Dewanand7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
