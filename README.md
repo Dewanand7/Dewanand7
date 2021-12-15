@@ -30,8 +30,8 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <a href="https://twitter.com/nitishkhilar" target="blank"><img
             src="https://img.shields.io/twitter/follow/nitishkhilar?logo=twitter&style=for-the-badge"
             alt="nitishkhilar" /></a> </p>
-            
-            
+
+
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dewanand7&layout=compact&theme=dark&show_icons=true)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api?username=Dewanand7&show_icons=true&theme=radical)
 
@@ -59,8 +59,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    </a> <a href="https://getbootstrap.com" target="_blank"
-        rel="noreferrer"> <img
+    </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
         rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -100,4 +99,6 @@ You can click the Preview link to take a look at your changes.
             width="40" height="40" /> </a> </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dewanand7&layout=compact&theme=dark&show_icons=true" alt="dewanand7" /></p>
+<p><img align="center"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=dewanand7&layout=compact&theme=dark&show_icons=true"
+        alt="dewanand7" /></p>
