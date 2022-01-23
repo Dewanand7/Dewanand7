@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://devkhilar.online/](https://devkhilar.online/)
 
-- 📫 How to reach me [Email](**dewanandkhilar@gmail.com**)
+- 📫 How to reach me <a href="mailto:webmaster@example.com">Email</a>
 
 - ⚡ Fun fact **I am very Funny.😂**
 
