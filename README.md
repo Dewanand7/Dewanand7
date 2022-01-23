@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Dewanand</h1>
 <h3 align="center">Software Developer & Web Developer</h3>
 
-- 🔭 I’m currently working on [my personal projects](https://dewanand7.github.io/personal_portfolio/)
+- 🔭 I’m currently working on [EDI Development ](https://dewanand7.github.io/personal_portfolio/)
 
-- 🌱 I’m currently learning **Some Development Tools**
+- 🌱 I’m currently learning **Python and Blockchain**
 
-- 👯 I’m looking to collaborate on **Software Development**
+- 👯 I’m looking to collaborate on **Software Development and Web Development **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dewanand7](https://github.com/Dewanand7)
 
-- 📝 I regularly write articles on [https://devkhilar.blogspot.com/](https://devkhilar.blogspot.com/)
+- 📝 I regularly write articles on [https://devkhilar.online/](https://devkhilar.online/)
 
-- 📫 How to reach me **dewanandkhilar@gmail.com**
+- 📫 How to reach me **https://bit.ly/3nOt27s**
 
 - ⚡ Fun fact **I am very Funny.😂**
 
