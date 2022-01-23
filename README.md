@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://devkhilar.online/](https://devkhilar.online/)
 
-- 📫 How to reach me **https://bit.ly/3nOt27s**
+- 📫 How to reach me [Email](https://bit.ly/3nOt27s)
 
 - ⚡ Fun fact **I am very Funny.😂**
 
