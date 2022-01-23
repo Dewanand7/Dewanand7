@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/Dewanand7)
 
-- 📝 I regularly write articles on [Blog](https://www.devkhilar.online/)
+- 📝 I regularly write articles on [Blogs](https://www.devkhilar.online/)
 
 - 📫 How to reach me <a href="mailto:webmaster@example.com">Email</a>
 
