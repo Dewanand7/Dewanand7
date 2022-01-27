@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dewanand</h1>
 <h3 align="center">Software Developer & Web Developer</h3>
 
-- 🔭 I’m currently working on [EDI Development ](https://www.ibm.com/topics/edi-electronic-data-interchange)
+- 🔭 I’m currently working on [EDI Development. ](https://www.ibm.com/topics/edi-electronic-data-interchange)
 
-- 🌱 I’m currently learning **Python and Blockchain**
+- 🌱 I’m currently learning **Python and Blockchain.**
 
-- 👯 I’m looking to collaborate on **Software Development and Web Development **
+- 👯 I’m looking to collaborate on **Software Development and Web Development. **
 
 - 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/Dewanand7)
 
