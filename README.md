@@ -36,9 +36,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://codepen.io/dewanand7" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
             alt="dewanand7" height="30" width="40" /></a>
-    <a href="https://twitter.com/nitishkhilar" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="nitishkhilar" height="30" width="40" /></a>
+ </a>
     <a href="https://linkedin.com/in/dewanand-khilar-2b96b2200/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="dewanand-khilar-2b96b2200/" height="30" width="40" /></a>
